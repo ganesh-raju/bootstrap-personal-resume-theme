@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-personal-resume-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://opensnippets.github.io/bootstrap-personal-resume-theme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
