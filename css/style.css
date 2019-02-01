@@ -1,0 +1,41 @@
+ul{
+	padding: 0;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	padding-right: 10px;
+}
+li a {
+	color: #333;
+}
+li a:hover {
+	color: #00c853;
+}
+.skills h6{
+	margin-top: 1.5rem;
+}
+
+section{
+	width: 90%;
+    margin: auto;
+}
+
+
+
+#about-me{
+	
+    height: 600px;
+    display: flex;
+   
+    align-items: center;
+}
+.tag-line{
+	color: #00c853;
+	font-weight: bold;
+
+}
+
+.progress-bar{
+	background-color: #00c853;
+}
