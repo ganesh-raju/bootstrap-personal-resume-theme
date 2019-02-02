@@ -12,30 +12,59 @@ li a {
 li a:hover {
 	color: #00c853;
 }
+
+
+
+
+
+
+
+.form-control{
+       -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    box-shadow: none;
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, 0.1) !important;
+    height: 54px !important;
+    font-size: 18px;
+    font-weight: 300;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    border-radius: 0px !important;
+    background-color: #fff;
+}
+#message {
+    height: 130px !important;
+}
+.btn.btn-md {
+    padding: 10px 25px !important;
+}
+.btn-primary {
+    background: #da1212 !important;
+    color: #fff !important;
+    border: 2px solid #da1212 !important;
+  border-radius: 0px !important;
+}
+
+
+
 .skills h6{
-	margin-top: 1.5rem;
+	line-height: 2.5rem;
 }
-
-section{
-	width: 90%;
-    margin: auto;
+.skills .progress{
+	height: 0.6rem;
 }
-
-
-
-#about-me{
-	
-    height: 600px;
-    display: flex;
-   
-    align-items: center;
-}
-.tag-line{
-	color: #00c853;
-	font-weight: bold;
-
-}
-
 .progress-bar{
-	background-color: #00c853;
+	background-color: #333 !important;
+}
+
+.contact-form{
+	background-color: #f1f1f1;
+}
+
+footer{
+	background-color: #fff;
+	color: #333;
 }
